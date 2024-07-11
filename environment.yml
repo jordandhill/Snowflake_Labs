@@ -2,6 +2,4 @@ name: app_environment
 channels:
   - snowflake
 dependencies:
-  - matplotlib=3.8.4
-  - scikit-learn=1.4.2
-  - statsmodels=0.14.0
+  - snowflake-ml=0.8.0
