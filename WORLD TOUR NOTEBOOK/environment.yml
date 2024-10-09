@@ -6,3 +6,4 @@ dependencies:
   - modin=*
   - seaborn=*
   - snowflake=*
+  - snowflake-snowpark-python=*
